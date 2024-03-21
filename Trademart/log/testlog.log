@@ -290,3 +290,244 @@
 2024-03-13 16:31:14,929 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Password is entered
 2024-03-13 16:31:17,048 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Login is clicked
 2024-03-13 16:31:19,073 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Test case is passed
+2024-03-14 16:03:34,751 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Login of Trademart is clicked
+2024-03-14 16:03:37,002 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Email is entered
+2024-03-14 16:03:39,160 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Password is entered
+2024-03-14 16:03:41,277 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Login is clicked
+2024-03-14 16:03:43,294 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Test case is failed
+2024-03-14 16:03:43,295 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Screenshot is taken
+2024-03-14 16:03:47,922 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Login of Trademart is clicked
+2024-03-14 16:03:50,063 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Email is entered
+2024-03-14 16:03:52,191 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Password is entered
+2024-03-14 16:03:54,313 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Login is clicked
+2024-03-14 16:03:56,343 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Test case is failed
+2024-03-14 16:03:56,344 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Screenshot is taken
+2024-03-14 16:04:00,355 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Login of Trademart is clicked
+2024-03-14 16:04:02,646 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Email is entered
+2024-03-14 16:04:04,762 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Password is entered
+2024-03-14 16:04:06,847 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Login is clicked
+2024-03-14 16:04:08,949 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Test case is passed
+2024-03-19 11:31:03,633 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Login of Trademart is clicked
+2024-03-19 11:31:05,903 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Email is entered
+2024-03-19 11:31:08,037 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Password is entered
+2024-03-19 11:31:10,173 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Login is clicked
+2024-03-19 11:31:12,190 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Test case is failed
+2024-03-19 11:31:12,191 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Screenshot is taken
+2024-03-19 11:31:18,891 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Login of Trademart is clicked
+2024-03-19 11:31:21,076 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Email is entered
+2024-03-19 11:31:23,217 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Password is entered
+2024-03-19 11:31:25,341 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Login is clicked
+2024-03-19 11:31:27,359 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Test case is failed
+2024-03-19 11:31:27,361 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Screenshot is taken
+2024-03-19 11:31:31,814 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Login of Trademart is clicked
+2024-03-19 11:31:33,990 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Email is entered
+2024-03-19 11:31:36,125 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Password is entered
+2024-03-19 11:31:38,213 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Login is clicked
+2024-03-19 11:31:40,232 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Test case is passed
+2024-03-19 12:18:50,493 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Login of Trademart is clicked
+2024-03-19 12:18:52,864 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Email is entered
+2024-03-19 12:18:55,048 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Password is entered
+2024-03-19 12:18:57,300 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Login is clicked
+2024-03-19 12:18:59,321 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Test case is failed
+2024-03-19 12:18:59,322 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Screenshot is taken
+2024-03-19 12:19:05,239 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Login of Trademart is clicked
+2024-03-19 12:19:07,406 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Email is entered
+2024-03-19 12:19:09,542 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Password is entered
+2024-03-19 12:19:11,635 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Login is clicked
+2024-03-19 12:19:13,649 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Test case is failed
+2024-03-19 12:19:13,649 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Screenshot is taken
+2024-03-19 12:19:17,900 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Login of Trademart is clicked
+2024-03-19 12:19:20,084 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Email is entered
+2024-03-19 12:19:22,206 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Password is entered
+2024-03-19 12:19:24,310 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Login is clicked
+2024-03-19 12:19:26,337 - Trademart_Testcases.Trademart_Login_TestClass -INFO - Test case is passed
+2024-03-19 16:11:37,118 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Signup is clicked
+2024-03-19 16:11:39,444 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - user info is entered
+2024-03-19 16:11:42,745 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - password is entered
+2024-03-19 16:11:44,891 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - confirm password is entered
+2024-03-19 16:11:47,705 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - country is selected
+2024-03-19 16:11:50,043 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - state is selected
+2024-03-19 16:11:52,536 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - city is selected
+2024-03-19 16:40:52,809 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Signup is clicked
+2024-03-19 16:40:55,066 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - user info is entered
+2024-03-19 16:40:58,292 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - password is entered
+2024-03-19 16:41:00,484 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - confirm password is entered
+2024-03-19 16:41:03,219 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - country is selected
+2024-03-19 16:41:05,636 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - state is selected
+2024-03-19 16:41:07,956 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - city is selected
+2024-03-19 16:41:10,092 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Radio button is selected
+2024-03-19 16:41:12,239 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Firstname is entered
+2024-03-19 16:41:14,437 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Lastname is entered
+2024-03-19 16:41:16,585 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Company name is entered
+2024-03-19 16:41:18,811 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Country code is entered
+2024-03-19 16:41:20,994 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Contact number is entered
+2024-03-19 16:44:09,838 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Signup is clicked
+2024-03-19 16:44:12,115 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - user info is entered
+2024-03-19 16:44:15,379 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - password is entered
+2024-03-19 16:44:17,535 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - confirm password is entered
+2024-03-19 16:44:20,009 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - country is selected
+2024-03-19 16:44:22,481 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - state is selected
+2024-03-19 16:44:24,994 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - city is selected
+2024-03-19 16:44:27,123 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Radio button is selected
+2024-03-19 16:44:29,287 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Firstname is entered
+2024-03-19 16:44:31,488 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Lastname is entered
+2024-03-19 16:44:33,687 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Company name is entered
+2024-03-19 16:44:35,844 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Country code is entered
+2024-03-19 16:44:38,031 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Contact number is entered
+2024-03-19 16:47:02,637 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Signup is clicked
+2024-03-19 16:47:04,940 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - user info is entered
+2024-03-19 16:47:08,209 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - password is entered
+2024-03-19 16:47:10,393 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - confirm password is entered
+2024-03-19 16:47:12,836 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - country is selected
+2024-03-19 16:47:15,192 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - state is selected
+2024-03-19 16:47:17,574 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - city is selected
+2024-03-19 16:47:19,733 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Radio button is selected
+2024-03-19 16:47:21,905 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Firstname is entered
+2024-03-19 16:47:24,096 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Lastname is entered
+2024-03-19 16:47:26,263 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Company name is entered
+2024-03-19 16:47:28,412 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Country code is entered
+2024-03-19 16:47:30,590 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Contact number is entered
+2024-03-19 16:49:10,559 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Signup is clicked
+2024-03-19 16:49:12,899 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - user info is entered
+2024-03-19 16:49:16,206 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - password is entered
+2024-03-19 16:49:18,326 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - confirm password is entered
+2024-03-19 16:49:20,802 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - country is selected
+2024-03-19 16:49:23,162 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - state is selected
+2024-03-19 16:49:25,495 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - city is selected
+2024-03-19 16:49:27,633 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Radio button is selected
+2024-03-19 16:49:29,849 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Firstname is entered
+2024-03-19 16:49:32,127 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Lastname is entered
+2024-03-19 16:49:34,351 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Company name is entered
+2024-03-19 16:49:36,485 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Country code is entered
+2024-03-19 16:49:38,678 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Contact number is entered
+2024-03-19 16:58:22,157 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Signup is clicked
+2024-03-19 16:58:24,413 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - user info is entered
+2024-03-19 16:58:27,663 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - password is entered
+2024-03-19 16:58:29,822 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - confirm password is entered
+2024-03-19 16:58:32,341 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - country is selected
+2024-03-19 16:58:34,716 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - state is selected
+2024-03-19 16:58:37,088 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - city is selected
+2024-03-19 16:58:39,232 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Radio button is selected
+2024-03-19 16:58:41,399 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Firstname is entered
+2024-03-19 16:58:43,605 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Lastname is entered
+2024-03-19 16:58:45,788 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Company name is entered
+2024-03-19 16:58:47,949 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Country code is entered
+2024-03-19 16:58:50,118 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Contact number is entered
+2024-03-19 16:58:52,254 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Entered into frame
+2024-03-19 17:00:05,426 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Signup is clicked
+2024-03-19 17:00:07,684 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - user info is entered
+2024-03-19 17:00:11,093 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - password is entered
+2024-03-19 17:00:13,298 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - confirm password is entered
+2024-03-19 17:00:15,739 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - country is selected
+2024-03-19 17:00:18,082 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - state is selected
+2024-03-19 17:00:20,436 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - city is selected
+2024-03-19 17:00:22,571 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Radio button is selected
+2024-03-19 17:00:24,736 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Firstname is entered
+2024-03-19 17:00:26,932 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Lastname is entered
+2024-03-19 17:00:29,087 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Company name is entered
+2024-03-19 17:00:31,266 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Country code is entered
+2024-03-19 17:00:33,409 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Contact number is entered
+2024-03-19 17:00:35,558 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Entered into frame
+2024-03-19 17:02:07,535 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Signup is clicked
+2024-03-19 17:02:09,793 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - user info is entered
+2024-03-19 17:02:13,076 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - password is entered
+2024-03-19 17:02:15,229 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - confirm password is entered
+2024-03-19 17:02:17,670 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - country is selected
+2024-03-19 17:02:20,051 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - state is selected
+2024-03-19 17:02:22,417 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - city is selected
+2024-03-19 17:02:24,591 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Radio button is selected
+2024-03-19 17:02:26,737 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Firstname is entered
+2024-03-19 17:02:28,901 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Lastname is entered
+2024-03-19 17:02:31,081 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Company name is entered
+2024-03-19 17:02:33,281 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Country code is entered
+2024-03-19 17:02:35,426 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Contact number is entered
+2024-03-19 17:02:37,621 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Entered into frame
+2024-03-19 17:09:29,980 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Signup is clicked
+2024-03-19 17:09:32,234 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - user info is entered
+2024-03-19 17:09:35,534 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - password is entered
+2024-03-19 17:09:37,700 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - confirm password is entered
+2024-03-19 17:09:40,131 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - country is selected
+2024-03-19 17:09:42,480 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - state is selected
+2024-03-19 17:09:44,840 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - city is selected
+2024-03-19 17:09:46,988 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Radio button is selected
+2024-03-19 17:09:49,119 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Firstname is entered
+2024-03-19 17:09:51,315 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Lastname is entered
+2024-03-19 17:09:53,505 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Company name is entered
+2024-03-19 17:09:55,674 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Country code is entered
+2024-03-19 17:09:57,850 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Contact number is entered
+2024-03-19 17:10:00,021 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Entered into frame
+2024-03-19 17:10:51,656 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Signup is clicked
+2024-03-19 17:10:53,913 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - user info is entered
+2024-03-19 17:10:57,193 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - password is entered
+2024-03-19 17:10:59,349 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - confirm password is entered
+2024-03-19 17:11:02,006 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - country is selected
+2024-03-19 17:11:04,298 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - state is selected
+2024-03-19 17:11:06,589 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - city is selected
+2024-03-19 17:11:08,735 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Radio button is selected
+2024-03-19 17:11:10,926 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Firstname is entered
+2024-03-19 17:11:13,095 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Lastname is entered
+2024-03-19 17:11:15,252 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Company name is entered
+2024-03-19 17:11:17,381 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Country code is entered
+2024-03-19 17:11:19,535 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Contact number is entered
+2024-03-19 17:11:21,687 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Entered into frame
+2024-03-19 17:12:32,170 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Signup is clicked
+2024-03-19 17:12:34,419 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - user info is entered
+2024-03-19 17:12:37,745 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - password is entered
+2024-03-19 17:12:39,907 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - confirm password is entered
+2024-03-19 17:12:42,414 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - country is selected
+2024-03-19 17:12:44,734 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - state is selected
+2024-03-19 17:12:47,148 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - city is selected
+2024-03-19 17:12:49,293 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Radio button is selected
+2024-03-19 17:12:51,443 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Firstname is entered
+2024-03-19 17:12:53,611 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Lastname is entered
+2024-03-19 17:12:55,789 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Company name is entered
+2024-03-19 17:12:57,934 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Country code is entered
+2024-03-19 17:13:00,101 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Contact number is entered
+2024-03-19 17:13:02,223 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Entered into frame
+2024-03-19 17:13:51,390 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Signup is clicked
+2024-03-19 17:13:53,636 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - user info is entered
+2024-03-19 17:13:56,894 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - password is entered
+2024-03-19 17:13:59,070 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - confirm password is entered
+2024-03-19 17:14:02,023 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - country is selected
+2024-03-19 17:14:04,347 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - state is selected
+2024-03-19 17:14:06,643 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - city is selected
+2024-03-19 17:14:08,768 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Radio button is selected
+2024-03-19 17:14:10,901 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Firstname is entered
+2024-03-19 17:14:13,068 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Lastname is entered
+2024-03-19 17:14:15,246 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Company name is entered
+2024-03-19 17:14:17,365 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Country code is entered
+2024-03-19 17:14:19,533 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Contact number is entered
+2024-03-19 17:14:21,595 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Entered into frame
+2024-03-19 17:14:23,877 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Recaptcha is clicked
+2024-03-19 17:14:26,038 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - SignUp is clicked
+2024-03-21 11:38:37,545 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Signup is clicked
+2024-03-21 11:38:39,854 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - user info is entered
+2024-03-21 11:38:43,059 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - password is entered
+2024-03-21 11:38:45,248 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - confirm password is entered
+2024-03-21 11:38:48,306 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - country is selected
+2024-03-21 11:38:50,700 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - state is selected
+2024-03-21 11:38:53,006 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - city is selected
+2024-03-21 11:38:55,169 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Radio button is selected
+2024-03-21 11:38:57,307 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Firstname is entered
+2024-03-21 11:38:59,460 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Lastname is entered
+2024-03-21 11:39:01,653 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Company name is entered
+2024-03-21 11:39:03,789 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Country code is entered
+2024-03-21 11:39:05,963 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Contact number is entered
+2024-03-21 11:39:08,028 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Entered into frame
+2024-03-21 11:39:10,328 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Recaptcha is clicked
+2024-03-21 11:41:05,894 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Signup is clicked
+2024-03-21 11:41:08,240 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - user info is entered
+2024-03-21 11:41:11,615 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - password is entered
+2024-03-21 11:41:13,774 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - confirm password is entered
+2024-03-21 11:41:16,258 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - country is selected
+2024-03-21 11:41:18,730 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - state is selected
+2024-03-21 11:41:21,311 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - city is selected
+2024-03-21 11:41:23,514 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Radio button is selected
+2024-03-21 11:41:25,668 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Firstname is entered
+2024-03-21 11:41:27,864 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Lastname is entered
+2024-03-21 11:41:30,062 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Company name is entered
+2024-03-21 11:41:32,217 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Country code is entered
+2024-03-21 11:41:34,391 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Contact number is entered
+2024-03-21 11:41:36,450 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Entered into frame
+2024-03-21 11:41:38,732 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Recaptcha is clicked
+2024-03-21 11:42:38,963 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - SignUp is clicked
