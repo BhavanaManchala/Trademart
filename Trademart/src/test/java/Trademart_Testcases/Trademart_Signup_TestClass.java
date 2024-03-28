@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 import Trademart_PageObject.Trademart_SignupPOM;
 
-public class Trademart_Signup_TestClass extends Trademart_Login_Base
+public class Trademart_Signup_TestClass extends Trademart_SellerBase
 {
 
 	@Test()

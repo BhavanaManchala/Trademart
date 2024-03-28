@@ -17,13 +17,13 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
-import Trademart_Utilities.Trademart_LoginReadConfig;
+import Trademart_Utilities.Trademart_BuyerLoginReadConfig;
 
-public class Trademart_Login_Base 
+public class Trademart_BuyerBase 
 {
 	public static WebDriver driver;
 	public static Logger log;
-	Trademart_LoginReadConfig rc= new Trademart_LoginReadConfig();
+	Trademart_BuyerLoginReadConfig rc= new Trademart_BuyerLoginReadConfig();
 	
 	public String url=rc.openapplication();
 	public String email=rc.emailid();
@@ -68,4 +68,5 @@ public class Trademart_Login_Base
 		File target=new File(System.getProperty("user.dir")+"\\Screenshots\\"+name+".png");
 		FileHandler.copy(src,target);
 	}
+
 }

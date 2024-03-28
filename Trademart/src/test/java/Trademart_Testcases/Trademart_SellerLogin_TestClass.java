@@ -7,15 +7,15 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import Trademart_Utilities.DataDriven_XL;
-import Trademart_PageObject.Trademart_LoginPOM;
+import Trademart_PageObject.Trademart_SellerLoginPOM;
 
-public class Trademart_Login_TestClass extends Trademart_Login_Base
+public class Trademart_SellerLogin_TestClass extends Trademart_SellerBase
 {
 	@Test(dataProvider="TestData")
 	public void loginTest(String email,String password) throws InterruptedException, IOException
 	{
 		String path= System.getProperty("user.dir")+"\\ExcelSheets\\TestData.xlsx";
-		Trademart_LoginPOM tlp= new Trademart_LoginPOM(driver);
+		Trademart_SellerLoginPOM tlp= new Trademart_SellerLoginPOM(driver);
 		Thread.sleep(2000);
 		tlp.clicklogin();
 		log.info("Login of Trademart is clicked");

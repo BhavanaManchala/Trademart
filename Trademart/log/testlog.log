@@ -531,3 +531,706 @@
 2024-03-21 11:41:36,450 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Entered into frame
 2024-03-21 11:41:38,732 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Recaptcha is clicked
 2024-03-21 11:42:38,963 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - SignUp is clicked
+2024-03-21 12:19:12,459 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Signup is clicked
+2024-03-21 12:19:14,733 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - user info is entered
+2024-03-21 12:19:18,025 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - password is entered
+2024-03-21 12:19:20,200 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - confirm password is entered
+2024-03-21 12:19:22,714 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - country is selected
+2024-03-21 12:19:25,204 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - state is selected
+2024-03-21 12:19:27,594 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - city is selected
+2024-03-21 12:19:29,737 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Radio button is selected
+2024-03-21 12:19:31,894 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Firstname is entered
+2024-03-21 12:19:34,062 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Lastname is entered
+2024-03-21 12:19:36,240 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Company name is entered
+2024-03-21 12:19:38,402 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Country code is entered
+2024-03-21 12:19:40,563 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Contact number is entered
+2024-03-21 12:19:42,639 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Entered into frame
+2024-03-21 12:19:44,993 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - Recaptcha is clicked
+2024-03-21 12:20:35,166 - Trademart_Testcases.Trademart_Signup_TestClass -INFO - SignUp is clicked
+2024-03-21 16:14:14,086 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-21 16:14:16,344 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-21 16:14:18,550 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-21 16:14:20,684 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-21 16:21:56,086 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-21 16:21:58,302 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-21 16:22:00,436 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-21 16:22:02,554 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-21 16:22:05,401 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-21 16:33:15,840 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-21 16:33:18,091 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-21 16:33:20,236 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-21 16:33:22,366 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-21 16:33:25,191 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-21 16:33:30,795 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-21 16:36:12,537 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-21 16:36:14,758 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-21 16:36:16,897 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-21 16:36:19,018 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-21 16:36:21,630 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-21 16:36:26,572 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-21 16:36:28,727 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-21 16:36:32,351 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-21 16:45:40,301 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-21 16:45:42,524 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-21 16:45:44,651 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-21 16:45:46,756 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-21 16:45:49,666 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-21 16:45:55,634 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-21 16:45:57,793 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-21 16:46:01,715 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-21 16:46:04,039 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-21 16:46:53,816 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-21 16:46:56,049 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-21 16:46:58,182 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-21 16:47:00,307 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-21 16:47:03,235 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-21 16:47:08,781 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-21 16:47:10,950 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-21 16:47:14,509 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-21 16:47:16,866 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-22 15:44:27,638 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-22 15:44:30,055 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-22 15:44:32,233 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-22 15:44:34,390 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-22 15:44:37,289 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-22 15:44:42,992 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 15:44:45,172 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-22 15:44:48,877 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 15:44:51,441 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-22 15:44:55,649 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Price range filter is clicked
+2024-03-22 15:44:57,763 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Price slider is set
+2024-03-22 15:48:16,574 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-22 15:48:18,818 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-22 15:48:20,991 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-22 15:48:23,133 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-22 15:48:26,098 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-22 15:48:31,431 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 15:48:33,608 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-22 15:48:38,610 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 15:48:41,013 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-22 15:48:45,218 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Price range filter is clicked
+2024-03-22 15:48:47,343 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Price slider is set
+2024-03-22 15:51:38,637 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-22 15:51:40,890 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-22 15:51:43,074 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-22 15:51:45,247 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-22 15:51:48,869 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-22 15:51:54,511 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 15:51:56,720 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-22 15:52:00,836 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 15:52:03,294 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-22 15:52:07,456 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Price range filter is clicked
+2024-03-22 15:54:31,369 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-22 15:54:33,651 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-22 15:54:35,840 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-22 15:54:38,032 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-22 15:54:41,212 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-22 15:54:47,117 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 15:54:49,331 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-22 15:54:53,087 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 15:54:55,555 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-22 15:54:59,686 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Price slider is set
+2024-03-22 15:56:43,503 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-22 15:56:45,777 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-22 15:56:47,957 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-22 15:56:50,130 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-22 15:56:52,955 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-22 15:56:58,881 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 15:57:01,052 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-22 15:57:04,788 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 15:57:07,212 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-22 15:57:11,343 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Price slider is set
+2024-03-22 15:58:11,533 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-22 15:58:13,796 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-22 15:58:15,975 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-22 15:58:18,133 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-22 15:58:21,550 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-22 15:58:27,182 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 15:58:29,362 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-22 15:58:33,517 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 15:58:35,951 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-22 15:58:40,078 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Price slider is set
+2024-03-22 16:00:26,110 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-22 16:00:28,382 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-22 16:00:30,548 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-22 16:00:32,705 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-22 16:00:35,926 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-22 16:00:41,608 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 16:00:43,820 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-22 16:00:47,596 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 16:00:50,022 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-22 16:00:54,161 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Price slider is set
+2024-03-22 16:02:26,478 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-22 16:02:28,754 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-22 16:02:30,928 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-22 16:02:33,104 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-22 16:02:36,117 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-22 16:02:42,785 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 16:02:44,970 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-22 16:02:49,407 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 16:02:51,855 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-22 16:02:55,998 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Price slider is set
+2024-03-22 16:05:08,787 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-22 16:05:11,051 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-22 16:05:13,224 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-22 16:05:15,417 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-22 16:05:19,097 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-22 16:05:24,483 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 16:05:26,675 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-22 16:05:30,872 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 16:05:33,442 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-22 16:06:25,997 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-22 16:06:28,270 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-22 16:06:30,428 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-22 16:06:32,603 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-22 16:06:36,023 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-22 16:06:42,060 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 16:06:44,239 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-22 16:06:47,960 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 16:06:50,394 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-22 16:08:14,333 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-22 16:08:16,614 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-22 16:08:18,802 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-22 16:08:20,992 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-22 16:08:24,057 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-22 16:08:29,439 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 16:08:31,618 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-22 16:08:35,338 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 16:08:37,765 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-22 16:09:37,363 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-22 16:09:39,633 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-22 16:09:41,809 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-22 16:09:44,045 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-22 16:09:47,393 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-22 16:09:53,087 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 16:09:55,308 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-22 16:09:59,265 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 16:10:01,729 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-22 16:11:14,542 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-22 16:11:16,822 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-22 16:11:19,001 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-22 16:11:21,249 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-22 16:11:24,640 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-22 16:11:30,393 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 16:11:32,600 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-22 16:11:36,371 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 16:11:38,774 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-22 16:35:28,623 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-22 16:35:30,898 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-22 16:35:33,067 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-22 16:35:35,222 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-22 16:35:38,309 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-22 16:35:43,988 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 16:35:46,213 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-22 16:35:50,056 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 16:35:52,559 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-22 16:35:56,681 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Price slider is set
+2024-03-22 16:36:01,283 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select category dropdown is clicked and Electrical components is selected
+2024-03-22 16:38:00,022 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-22 16:38:02,303 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-22 16:38:04,484 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-22 16:38:06,648 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-22 16:38:09,337 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-22 16:38:14,824 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 16:38:17,100 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-22 16:38:21,890 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 16:38:24,322 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-22 16:38:28,449 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Price slider is set
+2024-03-22 16:38:32,977 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select category dropdown is clicked and Electrical components is selected
+2024-03-22 16:41:03,873 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-22 16:41:06,158 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-22 16:41:08,334 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-22 16:41:10,491 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-22 16:41:13,418 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-22 16:41:19,572 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 16:41:21,759 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-22 16:41:25,474 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 16:41:27,904 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-22 16:41:32,025 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Price slider is set
+2024-03-22 16:41:36,473 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select category dropdown is clicked and Electrical components is selected
+2024-03-22 16:43:08,118 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-22 16:43:10,387 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-22 16:43:12,561 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-22 16:43:14,716 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-22 16:43:18,244 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-22 16:43:24,700 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 16:43:26,969 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-22 16:43:30,826 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 16:43:33,261 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-22 16:43:37,383 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Price slider is set
+2024-03-22 16:43:41,872 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select category dropdown is clicked and Electrical components is selected
+2024-03-22 16:55:33,276 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-22 16:55:35,547 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-22 16:55:37,736 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-22 16:55:39,894 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-22 16:55:42,591 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-22 16:55:49,322 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 16:55:51,509 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-22 16:55:55,247 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 16:55:57,678 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-22 16:56:01,799 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Price slider is set
+2024-03-22 16:56:06,331 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select category dropdown is clicked and Electrical components is selected
+2024-03-22 16:56:09,037 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select country dropdown is clicked and India is selected
+2024-03-22 16:56:11,656 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select state dropdown is clicked and AndhraPradesh is selected
+2024-03-22 16:56:14,193 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select city dropdown is clicked and Hyderabad is selected
+2024-03-22 16:56:16,327 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Reset filter is clicked
+2024-03-22 17:23:41,363 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-22 17:23:43,611 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-22 17:23:45,776 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-22 17:23:47,933 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-22 17:23:50,824 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-22 17:23:56,433 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 17:23:58,619 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-22 17:24:02,425 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 17:24:04,841 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-22 17:24:08,955 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Price slider is set
+2024-03-22 17:24:13,420 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select category dropdown is clicked and Electrical components is selected
+2024-03-22 17:24:16,081 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select country dropdown is clicked and India is selected
+2024-03-22 17:24:18,623 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select state dropdown is clicked and AndhraPradesh is selected
+2024-03-22 17:24:21,108 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select city dropdown is clicked and Hyderabad is selected
+2024-03-22 17:24:23,247 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Reset filter is clicked
+2024-03-22 17:29:10,477 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-22 17:29:12,727 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-22 17:29:14,884 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-22 17:29:17,038 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-22 17:29:19,996 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-22 17:29:25,699 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 17:29:27,864 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-22 17:29:31,650 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 17:29:34,052 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-22 17:29:38,167 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Price slider is set
+2024-03-22 17:29:42,612 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select category dropdown is clicked and Electrical components is selected
+2024-03-22 17:29:45,257 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select country dropdown is clicked and India is selected
+2024-03-22 17:29:47,760 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select state dropdown is clicked and AndhraPradesh is selected
+2024-03-22 17:29:50,216 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select city dropdown is clicked and Hyderabad is selected
+2024-03-22 17:29:52,327 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Reset filter is clicked
+2024-03-22 17:30:56,180 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-22 17:30:58,442 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-22 17:31:00,620 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-22 17:31:02,791 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-22 17:31:06,530 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-22 17:31:12,018 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 17:31:14,174 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-22 17:31:17,840 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 17:31:20,253 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-22 17:31:24,370 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Price slider is set
+2024-03-22 17:31:28,808 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select category dropdown is clicked and Electrical components is selected
+2024-03-22 17:31:31,495 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select country dropdown is clicked and India is selected
+2024-03-22 17:31:33,986 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select state dropdown is clicked and AndhraPradesh is selected
+2024-03-22 17:31:36,456 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select city dropdown is clicked and Hyderabad is selected
+2024-03-22 17:31:38,575 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Reset filter is clicked
+2024-03-22 17:31:47,640 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Product added to favourite
+2024-03-22 17:31:51,785 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Profile is clicked
+2024-03-22 17:31:54,688 - Trademart_Testcases.Trademart_Search_TestClass -INFO - My Account is clicked
+2024-03-22 17:31:58,966 - Trademart_Testcases.Trademart_Search_TestClass -INFO - My Favourite Products is clicked
+2024-03-22 17:34:51,871 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-22 17:34:54,122 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-22 17:34:56,284 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-22 17:34:58,441 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-22 17:35:02,865 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-22 17:35:11,305 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 17:35:13,467 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-22 17:35:17,162 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 17:35:19,572 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-22 17:35:23,680 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Price slider is set
+2024-03-22 17:35:28,113 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select category dropdown is clicked and Electrical components is selected
+2024-03-22 17:35:30,767 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select country dropdown is clicked and India is selected
+2024-03-22 17:35:33,261 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select state dropdown is clicked and AndhraPradesh is selected
+2024-03-22 17:35:35,758 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select city dropdown is clicked and Hyderabad is selected
+2024-03-22 17:35:38,835 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Reset filter is clicked
+2024-03-22 17:35:42,966 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Product added to favourite
+2024-03-22 17:35:47,085 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Profile is clicked
+2024-03-22 17:35:50,565 - Trademart_Testcases.Trademart_Search_TestClass -INFO - My Account is clicked
+2024-03-22 17:35:54,538 - Trademart_Testcases.Trademart_Search_TestClass -INFO - My Favourite Products is clicked
+2024-03-22 18:28:50,745 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-22 18:28:52,972 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-22 18:28:55,125 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-22 18:28:57,265 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-22 18:28:59,946 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-22 18:29:05,847 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 18:29:08,003 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-22 18:29:11,673 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 18:29:14,073 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-22 18:29:18,179 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Price slider is set
+2024-03-22 18:29:22,649 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select category dropdown is clicked and Electrical components is selected
+2024-03-22 18:29:25,289 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select country dropdown is clicked and India is selected
+2024-03-22 18:29:27,791 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select state dropdown is clicked and AndhraPradesh is selected
+2024-03-22 18:29:30,266 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select city dropdown is clicked and Hyderabad is selected
+2024-03-22 18:29:33,300 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Reset filter is clicked
+2024-03-22 18:29:37,427 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Product added to favourite
+2024-03-22 18:29:41,546 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Profile is clicked
+2024-03-22 18:29:45,060 - Trademart_Testcases.Trademart_Search_TestClass -INFO - My Account is clicked
+2024-03-22 18:29:49,569 - Trademart_Testcases.Trademart_Search_TestClass -INFO - My Favourite Products is clicked
+2024-03-22 18:29:52,659 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-22 18:29:54,784 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Send Message is clicked
+2024-03-22 18:29:57,030 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Message description is entered
+2024-03-22 18:29:59,171 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Send is clicked
+2024-03-22 18:30:01,313 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Profile is clicked
+2024-03-22 18:30:04,863 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Messages is clicked
+2024-03-22 18:30:08,465 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sent items is clicked
+2024-03-22 18:30:11,586 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Message link is clicked
+2024-03-25 15:59:26,584 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-25 15:59:29,665 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-25 15:59:32,130 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-25 15:59:34,253 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-25 15:59:37,218 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-25 15:59:44,512 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-25 15:59:46,651 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-25 15:59:50,490 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-25 15:59:52,784 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-25 15:59:56,911 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Price slider is set
+2024-03-25 16:00:01,273 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select category dropdown is clicked and Electrical components is selected
+2024-03-25 16:02:20,949 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-25 16:02:23,206 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-25 16:02:25,360 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-25 16:02:27,478 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-25 16:02:30,140 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-25 16:02:37,119 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-25 16:02:39,306 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-25 16:02:44,286 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-25 16:02:46,558 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-25 16:02:50,664 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Price slider is set
+2024-03-25 16:02:54,992 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select category dropdown is clicked and Electrical components is selected
+2024-03-25 16:02:57,476 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select country dropdown is clicked and India is selected
+2024-03-25 16:02:59,868 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select state dropdown is clicked and AndhraPradesh is selected
+2024-03-25 16:03:02,227 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select city dropdown is clicked and Hyderabad is selected
+2024-03-25 16:03:05,296 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Reset filter is clicked
+2024-03-25 16:03:09,390 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Product added to favourite
+2024-03-25 16:03:13,492 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Profile is clicked
+2024-03-25 16:03:16,457 - Trademart_Testcases.Trademart_Search_TestClass -INFO - My Account is clicked
+2024-03-25 16:03:21,776 - Trademart_Testcases.Trademart_Search_TestClass -INFO - My Favourite Products is clicked
+2024-03-25 16:03:24,710 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-25 16:03:26,837 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Send Message is clicked
+2024-03-25 16:03:29,059 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Message description is entered
+2024-03-25 16:03:31,182 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Send is clicked
+2024-03-25 16:03:33,349 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Profile is clicked
+2024-03-25 16:03:37,701 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Messages is clicked
+2024-03-25 16:03:41,020 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sent items is clicked
+2024-03-25 16:03:44,351 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Message link is clicked
+2024-03-25 18:53:49,979 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-25 18:53:52,299 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-25 18:53:54,417 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-25 18:53:56,547 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-25 18:53:59,875 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-25 18:54:06,306 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-25 18:54:08,436 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-25 18:54:12,241 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-25 18:54:14,519 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-25 18:54:18,624 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Price slider is set
+2024-03-25 18:54:22,972 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select category dropdown is clicked and Electrical components is selected
+2024-03-25 18:54:25,440 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select country dropdown is clicked and India is selected
+2024-03-25 18:54:27,818 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select state dropdown is clicked and AndhraPradesh is selected
+2024-03-25 18:54:30,171 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select city dropdown is clicked and Hyderabad is selected
+2024-03-25 18:54:33,205 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Reset filter is clicked
+2024-03-25 18:54:37,312 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Product added to favourite
+2024-03-25 18:54:41,428 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Profile is clicked
+2024-03-25 18:54:45,000 - Trademart_Testcases.Trademart_Search_TestClass -INFO - My Account is clicked
+2024-03-25 18:54:49,411 - Trademart_Testcases.Trademart_Search_TestClass -INFO - My Favourite Products is clicked
+2024-03-25 18:54:52,343 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-25 18:54:54,472 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Send Message is clicked
+2024-03-25 18:54:56,672 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Message description is entered
+2024-03-25 18:54:58,789 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Send is clicked
+2024-03-25 18:55:00,921 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Profile is clicked
+2024-03-25 18:55:05,456 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Messages is clicked
+2024-03-25 18:55:08,571 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sent items is clicked
+2024-03-25 18:55:11,656 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Message link is clicked
+2024-03-25 18:55:14,626 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Logo is clicked
+2024-03-25 18:55:16,943 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked and Search sellers is selected
+2024-03-25 18:55:20,827 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search Symbol is clicked
+2024-03-25 18:55:22,969 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-25 18:55:25,289 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select category dropdown is clicked
+2024-03-25 18:55:27,753 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select country dropdown is clicked and India is selected
+2024-03-25 18:55:30,096 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select state dropdown is clicked and AndhraPradesh is selected
+2024-03-25 18:55:32,463 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select city dropdown is clicked and Hyderabad is selected
+2024-03-25 18:55:35,483 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Reset filter is clicked
+2024-03-25 18:55:39,588 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Seller added to favourite
+2024-03-25 18:55:43,688 - Trademart_Testcases.Trademart_Search_TestClass -INFO - contact suplier is clicked
+2024-03-25 18:55:46,009 - Trademart_Testcases.Trademart_Search_TestClass -INFO - contact supplier is clicked
+2024-03-25 18:55:48,201 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Quantity needed is entered
+2024-03-25 18:55:50,374 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Description is entered
+2024-03-25 18:55:52,500 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Send is clicked
+2024-03-25 18:55:54,609 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Profile is clicked
+2024-03-25 18:55:58,052 - Trademart_Testcases.Trademart_Search_TestClass -INFO - My Account is clicked
+2024-03-25 18:56:00,829 - Trademart_Testcases.Trademart_Search_TestClass -INFO - My Favourite Products is clicked
+2024-03-25 18:56:03,925 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Logo is clicked
+2024-03-25 18:56:06,192 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search drop down is clicked and Search Buying Requirements is selected
+2024-03-25 18:56:09,947 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search Symbol is clicked
+2024-03-25 18:58:55,594 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-25 18:58:57,800 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-25 18:58:59,920 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-25 18:59:02,049 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-25 18:59:04,767 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-25 18:59:09,532 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-25 18:59:11,763 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-25 18:59:15,456 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-25 18:59:17,748 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-25 18:59:22,316 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Price slider is set
+2024-03-25 18:59:26,640 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select category dropdown is clicked and Electrical components is selected
+2024-03-25 18:59:29,148 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select country dropdown is clicked and India is selected
+2024-03-25 18:59:31,529 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select state dropdown is clicked and AndhraPradesh is selected
+2024-03-25 18:59:33,885 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select city dropdown is clicked and Hyderabad is selected
+2024-03-25 18:59:36,959 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Reset filter is clicked
+2024-03-25 18:59:41,083 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Product added to favourite
+2024-03-25 18:59:45,180 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Profile is clicked
+2024-03-25 18:59:48,517 - Trademart_Testcases.Trademart_Search_TestClass -INFO - My Account is clicked
+2024-03-25 18:59:52,606 - Trademart_Testcases.Trademart_Search_TestClass -INFO - My Favourite Products is clicked
+2024-03-25 18:59:55,607 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-25 18:59:57,749 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Send Message is clicked
+2024-03-25 18:59:59,946 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Message description is entered
+2024-03-25 19:00:02,107 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Send is clicked
+2024-03-25 19:00:04,184 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Profile is clicked
+2024-03-25 19:00:09,565 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Messages is clicked
+2024-03-25 19:00:12,989 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sent items is clicked
+2024-03-25 19:00:17,610 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Message link is clicked
+2024-03-25 19:00:20,588 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Logo is clicked
+2024-03-25 19:00:22,879 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked and Search sellers is selected
+2024-03-25 19:00:26,566 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search Symbol is clicked
+2024-03-25 19:00:28,703 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-25 19:00:31,050 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select category dropdown is clicked
+2024-03-25 19:00:33,527 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select country dropdown is clicked and India is selected
+2024-03-25 19:00:35,882 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select state dropdown is clicked and AndhraPradesh is selected
+2024-03-25 19:00:38,217 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select city dropdown is clicked and Hyderabad is selected
+2024-03-25 19:00:41,231 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Reset filter is clicked
+2024-03-25 19:00:45,332 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Seller added to favourite
+2024-03-25 19:00:49,437 - Trademart_Testcases.Trademart_Search_TestClass -INFO - contact suplier is clicked
+2024-03-25 19:00:51,856 - Trademart_Testcases.Trademart_Search_TestClass -INFO - contact supplier is clicked
+2024-03-25 19:00:53,997 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Quantity needed is entered
+2024-03-25 19:00:56,195 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Description is entered
+2024-03-25 19:00:58,300 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Send is clicked
+2024-03-25 19:01:00,403 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Profile is clicked
+2024-03-25 19:01:03,140 - Trademart_Testcases.Trademart_Search_TestClass -INFO - My Account is clicked
+2024-03-25 19:01:06,017 - Trademart_Testcases.Trademart_Search_TestClass -INFO - My Favourite Sellers is clicked
+2024-03-25 19:01:09,340 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Logo is clicked
+2024-03-25 19:01:11,655 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search drop down is clicked and Search Buying Requirements is selected
+2024-03-25 19:01:15,262 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search Symbol is clicked
+2024-03-26 11:54:51,606 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login of Trademart is clicked
+2024-03-26 11:54:53,828 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Email is entered
+2024-03-26 11:54:55,955 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Password is entered
+2024-03-26 11:54:58,061 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Login is clicked
+2024-03-26 11:55:00,749 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked
+2024-03-26 11:55:10,650 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-26 11:55:12,788 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-26 11:55:16,468 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-26 11:55:18,797 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sortby dropdown is clicked and price low to high is selected
+2024-03-26 11:55:23,353 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Price slider is set
+2024-03-26 11:55:27,747 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select category dropdown is clicked and Electrical components is selected
+2024-03-26 11:55:30,096 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select subcategory dropdown is clicked and Generators is selected
+2024-03-26 11:55:32,632 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select country dropdown is clicked and India is selected
+2024-03-26 11:55:35,040 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select state dropdown is clicked and AndhraPradesh is selected
+2024-03-26 11:55:37,485 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select city dropdown is clicked and Hyderabad is selected
+2024-03-26 11:55:40,594 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Reset filter is clicked
+2024-03-26 11:55:44,715 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Product added to favourite
+2024-03-26 11:55:48,801 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Profile is clicked
+2024-03-26 11:55:52,299 - Trademart_Testcases.Trademart_Search_TestClass -INFO - My Account is clicked
+2024-03-26 11:55:56,535 - Trademart_Testcases.Trademart_Search_TestClass -INFO - My Favourite Products is clicked
+2024-03-26 11:55:59,591 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search symbol is clicked
+2024-03-26 11:56:01,727 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Send Message is clicked
+2024-03-26 11:56:03,960 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Message description is entered
+2024-03-26 11:56:06,074 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Send is clicked
+2024-03-26 11:56:08,169 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Profile is clicked
+2024-03-26 11:56:12,190 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Messages is clicked
+2024-03-26 11:56:15,252 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Sent items is clicked
+2024-03-26 11:56:18,438 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Message link is clicked
+2024-03-26 11:56:21,539 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Logo is clicked
+2024-03-26 11:56:23,886 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search dropdown is clicked and Search sellers is selected
+2024-03-26 11:56:27,931 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search Symbol is clicked
+2024-03-26 11:56:30,088 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Text is entered in search
+2024-03-26 11:56:32,477 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select category dropdown is clicked
+2024-03-26 11:56:35,100 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select country dropdown is clicked and India is selected
+2024-03-26 11:56:37,610 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select state dropdown is clicked and AndhraPradesh is selected
+2024-03-26 11:56:39,985 - Trademart_Testcases.Trademart_Search_TestClass -INFO - select city dropdown is clicked and Hyderabad is selected
+2024-03-26 11:56:43,070 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Reset filter is clicked
+2024-03-26 11:56:47,199 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Seller added to favourite
+2024-03-26 11:56:51,293 - Trademart_Testcases.Trademart_Search_TestClass -INFO - contact suplier is clicked
+2024-03-26 11:56:53,806 - Trademart_Testcases.Trademart_Search_TestClass -INFO - contact supplier is clicked
+2024-03-26 11:56:55,934 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Quantity needed is entered
+2024-03-26 11:56:58,147 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Description is entered
+2024-03-26 11:57:00,279 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Send is clicked
+2024-03-26 11:57:02,449 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Profile is clicked
+2024-03-26 11:57:06,078 - Trademart_Testcases.Trademart_Search_TestClass -INFO - My Account is clicked
+2024-03-26 11:57:08,957 - Trademart_Testcases.Trademart_Search_TestClass -INFO - My Favourite Sellers is clicked
+2024-03-26 11:57:12,010 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Logo is clicked
+2024-03-26 11:57:14,296 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search drop down is clicked and Search Buying Requirements is selected
+2024-03-26 11:57:17,931 - Trademart_Testcases.Trademart_Search_TestClass -INFO - Search Symbol is clicked
+2024-03-27 14:50:47,687 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Login of Trademart is clicked
+2024-03-27 14:50:49,923 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Email is entered
+2024-03-27 14:50:52,044 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Password is entered
+2024-03-27 14:50:54,142 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Login is clicked
+2024-03-27 14:50:57,750 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Manage Buying Requirement Seller is clicked
+2024-03-27 14:50:59,866 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Filter By is clicked
+2024-03-27 14:51:02,004 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Date is clicked
+2024-03-27 14:51:06,159 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Status dropdown is clicked and open status is selected
+2024-03-27 14:51:08,277 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Send Message to Buyer is clicked
+2024-03-27 15:02:41,253 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Login of Trademart is clicked
+2024-03-27 15:02:43,453 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Email is entered
+2024-03-27 15:02:45,568 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Password is entered
+2024-03-27 15:02:47,701 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Login is clicked
+2024-03-27 15:02:51,757 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Manage Buying Requirement Seller is clicked
+2024-03-27 15:02:53,882 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Filter By is clicked
+2024-03-27 15:02:55,992 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Date is clicked
+2024-03-27 15:02:59,211 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Status dropdown is clicked and open status is selected
+2024-03-27 15:03:01,318 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Send Message to Buyer is clicked
+2024-03-27 15:03:57,775 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Login of Trademart is clicked
+2024-03-27 15:04:00,299 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Email is entered
+2024-03-27 15:04:02,486 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Password is entered
+2024-03-27 15:04:04,596 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Login is clicked
+2024-03-27 15:04:08,642 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Manage Buying Requirement Seller is clicked
+2024-03-27 15:04:10,764 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Filter By is clicked
+2024-03-27 15:04:12,902 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Date is clicked
+2024-03-27 15:04:16,813 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Status dropdown is clicked and open status is selected
+2024-03-27 15:04:18,946 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Send Message to Buyer is clicked
+2024-03-27 15:24:44,390 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Login of Trademart is clicked
+2024-03-27 15:24:46,588 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Email is entered
+2024-03-27 15:24:48,706 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Password is entered
+2024-03-27 15:24:50,832 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Login is clicked
+2024-03-27 15:24:54,827 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Manage Buying Requirement Seller is clicked
+2024-03-27 15:24:56,959 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Filter By is clicked
+2024-03-27 15:24:59,068 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Date is clicked
+2024-03-27 15:25:03,082 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Status dropdown is clicked and open status is selected
+2024-03-27 15:25:05,198 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Send Message to Buyer is clicked
+2024-03-27 15:25:07,466 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Description of Message is entered
+2024-03-27 15:25:09,570 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Send Message button is clicked
+2024-03-27 15:25:11,676 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Profile is clicked
+2024-03-27 15:25:15,237 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Messages is clicked
+2024-03-27 15:25:18,365 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Send Items is clicked
+2024-03-27 15:25:20,489 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Send Message button is clicked
+2024-03-27 15:25:24,570 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Logout is clicked
+2024-03-27 15:25:26,673 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Login is clicked
+2024-03-27 15:25:28,888 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Buyer email is entered
+2024-03-27 15:25:30,994 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Buyer Password is entered
+2024-03-27 15:25:33,124 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Login is clicked
+2024-03-27 15:25:35,205 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Profile of Buyer is clicked
+2024-03-27 15:25:38,427 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Messages is clicked
+2024-03-27 15:25:41,238 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Inbox is clicked
+2024-03-27 15:25:44,028 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Messagelink is clicked
+2024-03-27 15:27:40,022 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Login of Trademart is clicked
+2024-03-27 15:27:42,230 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Email is entered
+2024-03-27 15:27:44,390 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Password is entered
+2024-03-27 15:27:46,499 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Login is clicked
+2024-03-27 15:27:50,257 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Manage Buying Requirement Seller is clicked
+2024-03-27 15:27:52,367 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Filter By is clicked
+2024-03-27 15:27:54,465 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Date is clicked
+2024-03-27 15:27:58,138 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Status dropdown is clicked and open status is selected
+2024-03-27 15:28:00,234 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Send Message to Buyer is clicked
+2024-03-27 15:28:02,681 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Description of Message is entered
+2024-03-27 15:28:04,798 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Send Message button is clicked
+2024-03-27 15:28:06,908 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Profile is clicked
+2024-03-27 15:28:10,315 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Messages is clicked
+2024-03-27 15:28:13,378 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Send Items is clicked
+2024-03-27 15:28:16,438 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Messagelink is clicked
+2024-03-27 15:28:18,548 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Profile is clicked
+2024-03-27 15:28:22,543 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Logout is clicked
+2024-03-27 15:28:24,634 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Login is clicked
+2024-03-27 15:28:26,854 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Buyer email is entered
+2024-03-27 15:28:29,031 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Buyer Password is entered
+2024-03-27 15:28:31,133 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Login is clicked
+2024-03-27 15:28:33,224 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Profile of Buyer is clicked
+2024-03-27 15:28:36,276 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Messages is clicked
+2024-03-27 15:28:39,030 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Inbox is clicked
+2024-03-27 15:28:42,010 - Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass -INFO - Messagelink is clicked
+2024-03-27 16:41:55,741 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Login of Trademart is clicked
+2024-03-27 16:41:57,948 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Email is entered
+2024-03-27 16:42:00,103 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Password is entered
+2024-03-27 16:42:02,233 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Login is clicked
+2024-03-27 16:42:08,354 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Manage Group and Photo bank is clicked
+2024-03-27 16:42:11,168 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Create/Add Group is clicked
+2024-03-27 16:42:13,304 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Group name is entered
+2024-03-27 16:42:15,402 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Upload image is clicked
+2024-03-27 16:46:05,985 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Login of Trademart is clicked
+2024-03-27 16:46:08,188 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Email is entered
+2024-03-27 16:46:10,347 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Password is entered
+2024-03-27 16:46:12,474 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Login is clicked
+2024-03-27 16:46:19,051 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Manage Group and Photo bank is clicked
+2024-03-27 16:46:22,204 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Create/Add Group is clicked
+2024-03-27 16:46:24,901 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Group name is entered
+2024-03-27 16:46:26,996 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Upload image is clicked
+2024-03-27 16:46:31,340 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - choose file is clicked and image uploaded
+2024-03-27 16:46:33,449 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Done is clicked
+2024-03-27 16:46:36,316 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Manage Group and Photo bank is clicked
+2024-03-27 16:46:38,557 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Window is Scrolled
+2024-03-27 16:46:41,308 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Edit group symbol is clicked
+2024-03-27 16:46:43,430 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Rename is clicked
+2024-03-27 16:46:45,552 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Another Name is Entered
+2024-03-27 16:46:47,653 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Uploadnew is clicked
+2024-03-27 16:46:49,743 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Upload image is clicked
+2024-03-27 18:00:43,452 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Login of Trademart is clicked
+2024-03-27 18:00:45,663 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Email is entered
+2024-03-27 18:00:47,796 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Password is entered
+2024-03-27 18:00:49,923 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Login is clicked
+2024-03-27 18:00:56,092 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Manage Group and Photo bank is clicked
+2024-03-27 18:00:58,989 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Create/Add Group is clicked
+2024-03-27 18:01:01,223 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Group name is entered
+2024-03-27 18:01:03,347 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Upload image is clicked
+2024-03-27 18:01:07,467 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - choose file is clicked and image uploaded
+2024-03-27 18:01:09,570 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Done is clicked
+2024-03-27 18:01:12,503 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Manage Group and Photo bank is clicked
+2024-03-27 18:01:14,532 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Window is Scrolled
+2024-03-27 18:01:17,302 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Edit group symbol is clicked
+2024-03-27 18:01:19,405 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Rename is clicked
+2024-03-27 18:01:21,520 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Another Name is Entered
+2024-03-27 18:01:23,656 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Uploadnew is clicked
+2024-03-27 18:01:25,771 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Upload image is clicked
+2024-03-27 18:01:29,868 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - choose file is clicked and image uploaded
+2024-03-27 18:01:31,969 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Done is clicked
+2024-03-27 18:01:34,065 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Uploadnow is clicked
+2024-03-27 18:01:36,831 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Manage Group and Photo bank is clicked
+2024-03-27 18:01:38,889 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Window is Scrolled
+2024-03-27 18:01:41,656 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Edit group symbol is clicked
+2024-03-27 18:01:43,772 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Select all checkbox is clicked
+2024-03-27 18:07:53,266 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Login of Trademart is clicked
+2024-03-27 18:07:55,501 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Email is entered
+2024-03-27 18:07:57,652 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Password is entered
+2024-03-27 18:07:59,769 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Login is clicked
+2024-03-27 18:08:06,490 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Manage Group and Photo bank is clicked
+2024-03-27 18:08:09,240 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Create/Add Group is clicked
+2024-03-27 18:08:11,386 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Group name is entered
+2024-03-27 18:08:13,507 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Upload image is clicked
+2024-03-27 18:08:17,642 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - choose file is clicked and image uploaded
+2024-03-27 18:08:19,746 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Done is clicked
+2024-03-27 18:08:22,681 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Manage Group and Photo bank is clicked
+2024-03-27 18:08:24,717 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Window is Scrolled
+2024-03-27 18:08:27,879 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Edit group symbol is clicked
+2024-03-27 18:08:29,973 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Rename is clicked
+2024-03-27 18:08:32,077 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Another Name is Entered
+2024-03-27 18:08:34,180 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Uploadnew is clicked
+2024-03-27 18:08:36,269 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Upload image is clicked
+2024-03-27 18:08:40,387 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - choose file is clicked and image uploaded
+2024-03-27 18:08:42,486 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Done is clicked
+2024-03-27 18:08:44,605 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Uploadnow is clicked
+2024-03-27 18:08:47,338 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Manage Group and Photo bank is clicked
+2024-03-27 18:08:49,390 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Window is Scrolled
+2024-03-27 18:08:52,180 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Edit group symbol is clicked
+2024-03-27 18:08:54,301 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Select all checkbox is clicked
+2024-03-27 18:08:56,393 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Delete is clicked
+2024-03-27 18:08:58,449 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Alert is clicked
+2024-03-27 18:09:02,011 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Back is clicked
+2024-03-27 18:09:04,044 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Window is Scrolled
+2024-03-28 10:03:32,377 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Login of Trademart is clicked
+2024-03-28 10:03:34,715 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Email is entered
+2024-03-28 10:03:36,869 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Password is entered
+2024-03-28 10:03:38,980 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Login is clicked
+2024-03-28 10:03:45,337 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Manage Group and Photo bank is clicked
+2024-03-28 10:03:48,059 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Create/Add Group is clicked
+2024-03-28 10:03:50,227 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Group name is entered
+2024-03-28 10:03:52,345 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Upload image is clicked
+2024-03-28 10:03:56,508 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - choose file is clicked and image uploaded
+2024-03-28 10:03:58,604 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Done is clicked
+2024-03-28 10:04:02,561 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Create is clicked
+2024-03-28 10:04:05,287 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Manage Group and Photo bank is clicked
+2024-03-28 10:04:07,337 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Window is Scrolled
+2024-03-28 10:04:10,659 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Edit group symbol is clicked
+2024-03-28 10:04:12,769 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Rename is clicked
+2024-03-28 10:04:14,872 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Another Name is Entered
+2024-03-28 10:04:16,992 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Uploadnew is clicked
+2024-03-28 10:04:19,085 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Upload image is clicked
+2024-03-28 10:04:23,190 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - choose file is clicked and image uploaded
+2024-03-28 10:04:25,280 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Done is clicked
+2024-03-28 10:04:27,394 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Uploadnow is clicked
+2024-03-28 10:04:30,040 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Manage Group and Photo bank is clicked
+2024-03-28 10:04:32,091 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Window is Scrolled
+2024-03-28 10:04:34,925 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Edit group symbol is clicked
+2024-03-28 10:04:37,020 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Select all checkbox is clicked
+2024-03-28 10:04:39,171 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Delete is clicked
+2024-03-28 10:04:41,198 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Alert is clicked
+2024-03-28 10:04:44,448 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Back is clicked
+2024-03-28 10:04:46,490 - Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -INFO - Window is Scrolled

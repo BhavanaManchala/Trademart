@@ -7,7 +7,10 @@
   <test thread-count="5" name="Test">
 	  <parameter name="browser" value="chrome"></parameter>
     <classes>
-		<class name="Trademart_Testcases.Trademart_Signup_TestClass"></class>
+		<class name="Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass"></class>
+		<!--<class name="Trademart_Testcases.Trademart_ManageBuyingRequirementSeller_TestClass"></class>-->
+		<!--<class name="Trademart_Testcases.Trademart_Search_TestClass"></class>-->
+		<!--<class name="Trademart_Testcases.Trademart_Signup_TestClass"></class>-->
         <!--<class name="Trademart_Testcases.Trademart_Login_TestClass"/>-->
     </classes>
   </test> <!-- Test -->

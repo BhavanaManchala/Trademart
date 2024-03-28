@@ -5,10 +5,10 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class Trademart_LoginPOM 
+public class Trademart_BuyerLoginPOM 
 {
 	public static WebDriver driver;
-	public Trademart_LoginPOM(WebDriver driver)
+	public Trademart_BuyerLoginPOM(WebDriver driver)
 	{
 		this.driver=driver;
 		PageFactory.initElements(driver, this);
@@ -39,4 +39,5 @@ public class Trademart_LoginPOM
     {
     	loginbutton.click();
     }
+
 }

@@ -4,12 +4,12 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.util.Properties;
 
-public class Trademart_LoginReadConfig 
+public class Trademart_BuyerLoginReadConfig 
 {
 	Properties pro;
-	public Trademart_LoginReadConfig()
+	public Trademart_BuyerLoginReadConfig()
 	{
-		File f=new File(System.getProperty("user.dir")+"\\src\\test\\resources\\login.properties");
+		File f=new File(System.getProperty("user.dir")+"\\src\\test\\resources\\buyerlogin.properties");
 		try
 		{
 		FileInputStream fis=new FileInputStream(f);

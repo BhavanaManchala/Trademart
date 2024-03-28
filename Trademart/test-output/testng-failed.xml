@@ -7,13 +7,13 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="Trademart_Testcases.Trademart_Signup_TestClass">
+      <class name="Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass">
         <methods>
-          <include name="Signup_TestClass"/>
+          <include name="Trademart_ManageBuyingRequirementSeller"/>
           <include name="openapplication"/>
           <include name="closeapplication"/>
         </methods>
-      </class> <!-- Trademart_Testcases.Trademart_Signup_TestClass -->
+      </class> <!-- Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

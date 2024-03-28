@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-21T11:40:46 IST" name="Suite" finished-at="2024-03-21T11:42:41 IST" duration-ms="115625">
+  <suite started-at="2024-03-28T10:02:22 IST" name="Suite" finished-at="2024-03-28T10:04:49 IST" duration-ms="147694">
     <groups>
     </groups>
-    <test started-at="2024-03-21T11:40:46 IST" name="Test" finished-at="2024-03-21T11:42:41 IST" duration-ms="115625">
-      <class name="Trademart_Testcases.Trademart_Signup_TestClass">
-        <test-method is-config="true" signature="openapplication(java.lang.String)[pri:0, instance:Trademart_Testcases.Trademart_Signup_TestClass@49139829]" started-at="2024-03-21T11:40:47 IST" name="openapplication" finished-at="2024-03-21T11:41:05 IST" duration-ms="18236" status="PASS">
+    <test started-at="2024-03-28T10:02:22 IST" name="Test" finished-at="2024-03-28T10:04:49 IST" duration-ms="147694">
+      <class name="Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass">
+        <test-method is-config="true" signature="openapplication(java.lang.String)[pri:0, instance:Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass@49139829]" started-at="2024-03-28T10:02:23 IST" name="openapplication" finished-at="2024-03-28T10:03:29 IST" duration-ms="65921" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openapplication -->
-        <test-method signature="Signup_TestClass()[pri:0, instance:Trademart_Testcases.Trademart_Signup_TestClass@49139829]" started-at="2024-03-21T11:41:05 IST" name="Signup_TestClass" finished-at="2024-03-21T11:42:40 IST" duration-ms="95358" status="PASS">
+        <test-method signature="Trademart_ManageBuyingRequirementSeller()[pri:0, instance:Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass@49139829]" started-at="2024-03-28T10:03:29 IST" name="Trademart_ManageBuyingRequirementSeller" finished-at="2024-03-28T10:04:48 IST" duration-ms="78567" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Signup_TestClass -->
-        <test-method is-config="true" signature="closeapplication()[pri:0, instance:Trademart_Testcases.Trademart_Signup_TestClass@49139829]" started-at="2024-03-21T11:42:41 IST" name="closeapplication" finished-at="2024-03-21T11:42:41 IST" duration-ms="740" status="PASS">
+        </test-method> <!-- Trademart_ManageBuyingRequirementSeller -->
+        <test-method is-config="true" signature="closeapplication()[pri:0, instance:Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass@49139829]" started-at="2024-03-28T10:04:48 IST" name="closeapplication" finished-at="2024-03-28T10:04:49 IST" duration-ms="931" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeapplication -->
-      </class> <!-- Trademart_Testcases.Trademart_Signup_TestClass -->
+      </class> <!-- Trademart_Testcases.Trademart_ManageGroupandPhotoBank_TestClass -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
